@@ -1,0 +1,2 @@
+# Yield-curve-prediction-for-the-strategic-investor
+Interest rate curve analysis serves as a predictor of economic activity and inflation expectations. Many studies document the predictive power of the slope of the Treasury yield curve for forecasting recessions. ... That is, an “inversion” of the yield curve, in which short-maturity interest rates exceed long-maturity rates, is typically associated with a recession in the near future.
